@@ -1,0 +1,81 @@
+Last:
+dorados = peces
+mano.jpg
+waterliles000.jpg =Water liles
+winter.jpg
+sunset.png
+
+More Pages and images added
+More Pages and images added
+More Pages and images added
+
+Test
+folder Last
+Water liles.jpg
+winder.jpg
+triste.jpg  = mano
+peces.jpg  
+More Pages and images added
+More Pages and images added
+More Pages and images added
+
+Testters
+mano.jpg
+peces.jpg
+water liles.jpg
+winter.jpg
+sunset.png
+chiste.jpg
+chist01
+Blue hills
+
+Duplicates by size:
+testtters:
+  mano
+ peces
+  sunset
+  triste
+
+test:
+
+ peces
+ triste
+Last:
+  dorados
+  mano
+  sunset
+
+Duplicates by Name:
+testers:  
+  mano
+  peces
+  sunset
+  winter
+test:
+  peces
+  winter
+Last:
+  mano
+  sunset
+  winter
+
+Duplicates Images Root Mean Squared:
+
+testters:
+  Blue hills
+  mano
+ peces
+ sunset
+
+test:
+  peces
+  triste
+  winter
+
+Last
+  dorados
+  mano
+  sunset
+
+ENG323174 - Aegis 2.3 Upgrade from Aegis 2.1 fails with error
+
