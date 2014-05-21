@@ -1,2 +1,4 @@
-hi 
+adding 3 lines:one
+two
+tree 
 hellow
