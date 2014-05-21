@@ -41,7 +41,8 @@ class MainWindow():
 
 
 
-
+updated 3 lines
+update 4 lines
 
 
 if __name__ == "__main__":
